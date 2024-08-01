@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Muhammad Anas<br><br>- 🔭 I’m working as a Web Developer<br>- 📚 I'm currently learning a lot of things</p>
+<p align="left">I'm Muhammad Anas<br><br>- 🔭 I’m working as Full-Stack Developer<br>- 📚 I'm a learner</p>
 
 ###
 
