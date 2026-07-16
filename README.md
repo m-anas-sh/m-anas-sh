@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Muhammad Anas<br><br>- 🔭 Full-Stack Developer, currently focused on backend engineering<br>- 🏥 Building a healthcare workforce management platform<br>- 📚 Learner</p>
+<p align="left">I'm Muhammad Anas<br><br>- 🔭 Full-Stack Developer, currently focused on backend engineering<br>- 📚 Learner</p>
 
 ###
 
